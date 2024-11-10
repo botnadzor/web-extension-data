@@ -1,2 +1,1 @@
-# web-extension-data
-botnadzor.org/extension
+Репозиторий для обновления настроек и списка аккаунтов расширения проекта https://botnadzor.org
